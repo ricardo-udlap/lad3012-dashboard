@@ -36,8 +36,6 @@ TU_ID     = "183632"
 TU_INSIGHT = """
 Descubrí que la empresa generó ventas por $1,776,494 pero obtuvo una ganancia de solo $55,006, equivalente a un margen de 3.1%, muy por debajo del benchmark de 12%. Recomiendo revisar la estrategia de descuentos, costos logísticos y productos de bajo margen para incrementar la rentabilidad sin depender únicamente de mayores ventas.
 """
-los graficos y filtros de mi dashboard.
-"""
 
 # ============================================================
 # CARGAR DATOS (con cache para velocidad)
